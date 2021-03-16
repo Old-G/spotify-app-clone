@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect } from 'react'
 import './App.css'
 import Login from './components/login'
 import Player from './components/player'
